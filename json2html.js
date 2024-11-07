@@ -1,8 +1,6 @@
-// json2html.js
-
 export default function json2html(data) {
   // Start the HTML table with a custom attribute
-  let html = '<table data-user="bhanuprakash.mymail.com">';
+  let html = '<table data-user="bhanuprakash.mymail@gmail.com">';
 
   // Create the table header (with fixed columns: Name, Age, Gender)
   html += "<thead><tr><th>Name</th><th>Age</th><th>Gender</th></tr></thead>";
