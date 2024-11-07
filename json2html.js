@@ -1,7 +1,7 @@
 // json2html.js
 export default function json2html(data) {
   const table = document.createElement("table");
-  table.setAttribute("data-user", "battu4262@gmail.com");
+  table.setAttribute("data-user", "bhanuprakash.mymail@gmail.com");
 
   // Create table header
   const thead = document.createElement("thead");
